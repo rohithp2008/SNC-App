@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_test_test_te.table_1_user" name="x_snc_test_test_te.table_1_user">e2d9d935db73f3005cf2f9361d961994</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>rohith.purumandla@snc</sys_created_by>
+        <sys_created_on>2019-09-10 17:44:41</sys_created_on>
+        <sys_id>6ed9d935db73f3005cf2f9361d961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e2d9d935db73f3005cf2f9361d961994</sys_name>
+        <sys_package display_value="Test test test" source="x_snc_test_test_te">71895535db73f3005cf2f9361d9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test test test">71895535db73f3005cf2f9361d9619c7</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6ed9d935db73f3005cf2f9361d961996</sys_update_name>
+        <sys_updated_by>rohith.purumandla@snc</sys_updated_by>
+        <sys_updated_on>2019-09-10 17:44:41</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
