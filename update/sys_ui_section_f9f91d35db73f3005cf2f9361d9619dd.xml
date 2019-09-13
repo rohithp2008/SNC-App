@@ -4,13 +4,41 @@
             <element>column_1</element>
             <position>0</position>
             <sys_created_by>rohith.purumandla@snc</sys_created_by>
-            <sys_created_on>2019-09-10 17:57:19</sys_created_on>
-            <sys_id>abbcd571dbbfb300c7a0f9361d9619f4</sys_id>
+            <sys_created_on>2019-09-10 17:45:20</sys_created_on>
+            <sys_id>c80a1d35db73f3005cf2f9361d9619ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_test_test_te_table_1" sys_domain="global" view="Default view">f9f91d35db73f3005cf2f9361d9619dd</sys_ui_section>
             <sys_updated_by>rohith.purumandla@snc</sys_updated_by>
-            <sys_updated_on>2019-09-10 17:57:19</sys_updated_on>
+            <sys_updated_on>2019-09-10 17:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>column_2</element>
+            <position>1</position>
+            <sys_created_by>rohith.purumandla@snc</sys_created_by>
+            <sys_created_on>2019-09-10 17:45:20</sys_created_on>
+            <sys_id>4c0a1d35db73f3005cf2f9361d9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_test_te_table_1" sys_domain="global" view="Default view">f9f91d35db73f3005cf2f9361d9619dd</sys_ui_section>
+            <sys_updated_by>rohith.purumandla@snc</sys_updated_by>
+            <sys_updated_on>2019-09-10 17:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>column_3</element>
+            <position>2</position>
+            <sys_created_by>rohith.purumandla@snc</sys_created_by>
+            <sys_created_on>2019-09-10 17:50:17</sys_created_on>
+            <sys_id>e02b5d75db73f3005cf2f9361d9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_test_te_table_1" sys_domain="global" view="Default view">f9f91d35db73f3005cf2f9361d9619dd</sys_ui_section>
+            <sys_updated_by>rohith.purumandla@snc</sys_updated_by>
+            <sys_updated_on>2019-09-10 17:50:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
